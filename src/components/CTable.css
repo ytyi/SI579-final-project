@@ -1,0 +1,48 @@
+/* .table {
+  margin-top: 20px;
+  overflow: scroll;
+  color: #6a5d5d;
+  background-color: white;
+  height: 800px;
+}
+
+.table tr {
+  display: flex;
+  justify-content: space-between;
+}
+
+.table td {
+  padding: 0.5rem;
+  border: none;
+}
+
+.table tr:nth-of-type(odd) {
+  background-color: #f3f2f8;
+} */
+
+table {
+  border-collapse: collapse;
+  overflow-x: scroll;
+}
+thead {
+  background-color: #EFEFEF;
+}
+thead, tbody {
+  display: block;
+}
+tbody {
+  overflow-y: scroll;
+  height: 600px;
+}
+td, th {
+  min-width: 300px;
+  height: 25px;
+  border: dashed 1px lightblue;
+  overflow:hidden;
+  text-overflow: ellipsis;
+  max-width: 300px;
+
+}
+.container{
+width:100%;
+}
