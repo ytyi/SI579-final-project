@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/SI579-final-project/static/css/main.721410be.chunk.css",
+    "main.js": "/SI579-final-project/static/js/main.112bf6ce.chunk.js",
+    "main.js.map": "/SI579-final-project/static/js/main.112bf6ce.chunk.js.map",
+    "runtime-main.js": "/SI579-final-project/static/js/runtime-main.5aa0373d.js",
+    "runtime-main.js.map": "/SI579-final-project/static/js/runtime-main.5aa0373d.js.map",
+    "static/css/2.086fabb6.chunk.css": "/SI579-final-project/static/css/2.086fabb6.chunk.css",
+    "static/js/2.8d726d37.chunk.js": "/SI579-final-project/static/js/2.8d726d37.chunk.js",
+    "static/js/2.8d726d37.chunk.js.map": "/SI579-final-project/static/js/2.8d726d37.chunk.js.map",
+    "index.html": "/SI579-final-project/index.html",
+    "precache-manifest.96dd323f7161fc03e9217afe13ac2970.js": "/SI579-final-project/precache-manifest.96dd323f7161fc03e9217afe13ac2970.js",
+    "service-worker.js": "/SI579-final-project/service-worker.js",
+    "static/css/2.086fabb6.chunk.css.map": "/SI579-final-project/static/css/2.086fabb6.chunk.css.map",
+    "static/css/main.721410be.chunk.css.map": "/SI579-final-project/static/css/main.721410be.chunk.css.map",
+    "static/js/2.8d726d37.chunk.js.LICENSE.txt": "/SI579-final-project/static/js/2.8d726d37.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5aa0373d.js",
+    "static/css/2.086fabb6.chunk.css",
+    "static/js/2.8d726d37.chunk.js",
+    "static/css/main.721410be.chunk.css",
+    "static/js/main.112bf6ce.chunk.js"
+  ]
+}
